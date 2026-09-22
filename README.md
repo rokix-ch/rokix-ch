@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Hiiiii, I'm ROKIX/РОКИЧ
 
 - Currently learning C# and C++. Trying to make games
