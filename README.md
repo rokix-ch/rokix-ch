@@ -1,7 +1,5 @@
 ## Hiiiii, I'm ROKIX/РОКИЧ
 
----
-
 ### Currently Using
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,12 +11,10 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
 ## Discord Status
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=736921691296497704)
 
----
   
 ## Github Visit:  
 ![visits](https://count.getloli.com/get/@rokix-ch?theme=gelbooru)
