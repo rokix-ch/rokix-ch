@@ -1,8 +1,5 @@
 ## Hiiiii, I'm ROKIX/РОКИЧ
 
-- Currently learning C# and C++. Trying to make games
-- Curently i'm know <a href="https://pythontutor.ru/"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white" alt="Python"/></a> and ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
 ---
 
 ### Currently Using
@@ -15,14 +12,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-   
-Discord Status:
 
+---
+
+## Discord Status
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=736921691296497704)
+
+---
   
-Visits:  
-![visits](https://count.getloli.com/get/@ROKI-dv?theme=gelbooru)
-<!---
-ROKI-dv/ROKI-dv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Github Visit:  
+![visits](https://count.getloli.com/get/@rokix-ch?theme=gelbooru)
